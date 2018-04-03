@@ -1,0 +1,111 @@
+body
+{
+	background-color:#000;
+}
+
+#central
+{
+	height:500px;	
+	background-color:#000;
+}
+
+.entry form
+{
+	float:right;
+	top:15px;
+	position:relative;
+}
+
+.grey-bar
+{
+	height:300px;
+	vertical-align:middle;
+	background-color:#666;
+}
+
+.title
+{
+	font-size:72px;
+}
+
+.lightgrey-bar
+{
+	height:300px;
+	vertical-align:middle;
+	background-color:#999;
+}
+
+#central .bg
+{
+	height:500px;
+	background-repeat:no-repeat;
+	background-image:url(../img/candle.jpg);
+	vertical-align:middle;
+}
+
+.row a
+{
+	color:inherit;
+}
+
+.row a:hover
+{
+	color:#999;
+}
+
+#central .bg .container
+{
+	color:#000;
+	top:50px;
+	position:relative;
+	line-height:1em;
+	text-align:right;
+	height:300px;
+}
+
+#central .bg .container span
+{
+	line-height:1.5em;
+	font-size:40px;
+}
+
+#central .bg .container p
+{
+	line-height:1.5em;
+	font-size:24px;
+}
+
+.entry ul li
+{
+	font-size:18px;
+	line-height:1.5em;
+}
+
+.box
+{
+	border-radius:5px;
+	background-color:#FFF;
+	margin:10px;
+	font-size:16px;
+	line-height:1.5em;
+	text-align:center;
+}
+
+#front
+{
+	color:#FFF;
+	background-color:#000;
+	display:block;
+}
+
+.lightgrey-bar .container
+{
+	top:100px;
+	position:relative;
+}
+
+.grey-bar .container
+{
+	top:100px;
+	position:relative;
+}

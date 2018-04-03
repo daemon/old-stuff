@@ -1,0 +1,11 @@
+Owner:
+- !show 	: Shows money
+- !start	: Starts game
+- !stop		: Stops game
+- !withdraw X	: Withdraws X
+
+Players:
+- !about	: Shows about message
+- !help		: Lists commands
+- !owner	: Shows owner
+- ?give X Y	: Guess Y when X == bet_amount
